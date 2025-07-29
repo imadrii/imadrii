@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @imadrii
 - 👀 I’m interested in Software Engeneering
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: ioknowwww
+- Thinking about qant...
 
 <!---
 imadrii/imadrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
